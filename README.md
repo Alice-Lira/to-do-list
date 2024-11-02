@@ -1,29 +1,31 @@
-# vue-project
+#  Lista de tarefas
 
-This template should help get you started developing with Vue 3 in Vite.
+### Tecnologias
+As seguintes ferramentas foram usadas na construção do projeto:
 
-## Recommended IDE Setup
+- [Node.js](https://nodejs.org/en/)
+- [CSS](https://www.w3schools.com/css/)
+- [Vue.js](https://vuejs.org/)
+- [git](https://git-scm.com/)
+  
+### Abrir e rodar o projeto
+Antes de começar, você vai precisar ter instalado na sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com/) e [Node.js](https://nodejs.org/en). 
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+```bash
+No terminal clone o projeto:
+$ git clone https://github.com/Alice-Lira/to-do-list.git
 
-## Customize configuration
+Entre na pasta do projeto:
+$ cd todo-do-list
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+Instale as dependências:
+$ npm install
 
-## Project Setup
-
-```sh
-npm install
+Execute a aplicação:
+$ npm run dev
 ```
+### Status do projeto 
+✅ Concluído
 
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
