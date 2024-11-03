@@ -4,7 +4,7 @@
 As seguintes ferramentas foram usadas na construção do projeto:
 
 - [Node.js](https://nodejs.org/en/)
-- [CSS](https://www.w3schools.com/css/)
+- [Tailwind](https://tailwindcss.com/)
 - [Vue.js](https://vuejs.org/)
 - [git](https://git-scm.com/)
   
@@ -27,5 +27,5 @@ Execute a aplicação:
 $ npm run dev
 ```
 ### Status do projeto 
-✅ Concluído
+🧱🔨Em andamento
 
